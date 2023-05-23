@@ -1,0 +1,5 @@
+Flask
+requests
+
+# Dummy impots (just for test purpose)
+azure-keyvault-secrets
