@@ -13,7 +13,8 @@ The developer gave you the below informations about his web app
 
 
 
-# Task
+# Tasks
 1. Create a docker image of the web app
-2. Optimize the docker image
-3. Run the webapp container
+2. Run the webapp container locally
+3. Create a pull request
+4. Optimize the docker image
